@@ -166,8 +166,8 @@ body {
 
 
 		<h3 align="right">
-			<font face="楷体">地址：中原工学院计算机学院 &nbsp;&nbsp;&nbsp;
-				&nbsp;&nbsp;&nbsp;电话：10086 &nbsp;&nbsp;&nbsp; 
+			<font face="楷体">么么工作室版权所有 &nbsp;&nbsp;&nbsp;
+				&nbsp;&nbsp;&nbsp;z18191431161@icloud.com&nbsp;&nbsp;&nbsp; 
 		</h3>
 </body>
 </html>
